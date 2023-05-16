@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.navbar{
+  align-self:center;
+  text-align:center;
+  font-size:200%;
+  width:fill;
+  background-color:gray;
+  color:black;
+  
+}
+
+@font-face{
+  font-family:hamirez;
+  src: url(./hamirez/Hamirez/ TTF/ Personal.ttf);
+  
+}
